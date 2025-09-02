@@ -31,3 +31,5 @@ occupation = "Sales"
 in the above line we are trying to override the constant variable
 occupaton with a new value. This will throw an error.
 */
+
+console.log(occupation)

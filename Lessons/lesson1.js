@@ -41,7 +41,7 @@ var fName = "Yadu" //String
 var age = 32 //Number
 var married  = true //Boolean: it can be 'false' as well.
 var visitedUS = null //Null
-var noOfCars = undefined // Undefined
+var noOfCars = undefined // Undefined : 
 
 
 
